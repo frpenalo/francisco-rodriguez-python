@@ -2,7 +2,7 @@
 
 name = "Francisco"
 age = 44
-height = 5.10
+height = 5.9
 is_student = True
 
 print(name, type(name))
@@ -32,7 +32,7 @@ print(f"{n1} × {n2} = {product}")
 #SECTION 4
 
 item = "Python textbook"
-price = 27
+price = 27.9
 quantity = 3
 
 total = price * quantity
